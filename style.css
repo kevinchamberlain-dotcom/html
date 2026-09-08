@@ -1,3 +1,31 @@
-.selector-for-some-widget {
-  box-sizing: content-box;
+.headline {
+    background-color: #0f0f0f;
+}
+
+.container-fluid {
+    padding: 5px;
+    background-color: #0c85fd;
+    border-radius: 0px;
+    height: 50px;
+    padding: auto;
+}
+
+.headline {
+    margin: 0px;
+    padding: auto;
+    text-align: middle;
+}
+
+.carousel {
+    width: 100%;
+    padding: 50px;
+    margin: 10px;
+}
+
+.card {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-image: width 10px;
 }
