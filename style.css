@@ -1,31 +1,32 @@
 .headline {
-    background-color: #0f0f0f;
+    background-color: #ffffff;
 }
 
-.container-fluid {
-    padding: 5px;
-    background-color: #0c85fd;
-    border-radius: 0px;
-    height: 50px;
-    padding: auto;
+.navbar-nav {
+    flex-direction: row;
+}
+
+.navbar-nav-scroll {
+    flex-direction: row;
+}
+
+.navbar-nav .nav-item {
+    padding: 0px 10px;
+}
+
+.nav-toggle {
+    display:none;
 }
 
 .headline {
     margin: 0px;
-    padding: auto;
+    padding: 10px;
     text-align: middle;
 }
 
 .carousel {
     width: 100%;
-    padding: 50px;
+    padding: 0px;
     margin: 10px;
 }
 
-.card {
-    width: 100%;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 10px;
-    border-image: width 10px;
-}
