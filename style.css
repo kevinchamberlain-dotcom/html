@@ -74,9 +74,9 @@
     margin: 0%;
 }
 
-.card-group {
-    padding: 0cqmin;
-    .img {
-        padding: 20px;
+.col4 {
+    .img-fluid {
+        padding: 190px;
+        max-width: 10px;
     }
 }
